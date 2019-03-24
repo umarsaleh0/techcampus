@@ -1,0 +1,28 @@
+﻿<!DOCTYPE>
+
+<html>
+<head>
+		<title>first page</title>
+</head>
+<body>
+		<h1>hello world</h1>
+
+		<p><b>This is
+			<i>bold</i>
+		  </b></p>
+
+		<p><mark>UMAR
+			<u>SALEH</u>
+		  </mark></p>
+		<p><ins>UMAR SALEH</ins></p>
+
+		<p><strike>UMAR SALEH</strike></p>
+		<p><del>UMAR SALEH</del></p>
+
+		<p><sup>Hello </sup>world</p>
+		<p><sub>Hello </sub>world</p>
+		<p>UMAR <big>SALEH</big></p>
+		<p>UMAR <small>SALEH</small></p>
+
+</body>
+</html>
